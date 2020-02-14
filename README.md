@@ -7,12 +7,12 @@ A deep learning based on Yolo v2 architecture to solve for "Where's Wally?"
 
 ## Quick Start and Guide
 
-Visit the [Medium page](https://medium.com/).
+Visit the [Medium page](https://link.medium.com/060qtr3C43).
 
 
 ## Yolo and Weights
 
-Read more about YOLO and download weight files [here](http://pjreddie.com/darknet/yolo/). I uploaded the settings and the weights used in this experiments [here](https://drive.google.com/drive/folders/1Ocqn6jrwPUdaartTH8ZTewFlJVOgCwss?usp=sharing),
+Read more about YOLO and download weight files [here](http://pjreddie.com/darknet/yolo/). I uploaded the settings and the weights used in this experiments [here](https://drive.google.com/drive/folders/1Ocqn6jrwPUdaartTH8ZTewFlJVOgCwss?usp=sharing).
 
 ## Usage
 
@@ -20,6 +20,6 @@ Read more about YOLO and download weight files [here](http://pjreddie.com/darkne
 python predict.py PATH_TO_IMAGE
 ```
 
-Notes:
+- Notes:
 
 Detections take ~20s per image on CPU.
